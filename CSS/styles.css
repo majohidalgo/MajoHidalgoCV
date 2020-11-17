@@ -71,13 +71,13 @@ text-decoration: underline;
 
 .firstcloud{
   position: absolute;
-  left: 1100px;
+  right: 15%;
   top: 80px;
 }
 
 .secondcloud{
   position: absolute;
-  right: 1100px;
+  left: 15%;
   bottom: 300px;
 }
 
